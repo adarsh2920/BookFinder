@@ -77,4 +77,4 @@ Once the BookFinder web application is running, you can perform the following st
 Contributions to the BookFinder web application are welcome! If you find any issues or would like to add new features, please create a pull request on the GitHub repository.
 
 
-Please note that this is a basic README file outline for a web application using JavaScript, ReactJS, and the Google Books API. You may need to further customize the README based on the specific implementation details of your application.
+
